@@ -1,0 +1,21 @@
+all backgrounds were removed using picsart https://picsart.com/
+
+rink https://athletics.bethel.edu/facilities/bethel-university-arena-national-sports-center/8
+puck https://pngimg.com/image/26537
+
+image of auston matthews https://www.nbcsports.com/nhl/news/nhl-power-rankings-top-american-born-players-right-now
+image of jamie oleksiak https://ca.sports.yahoo.com/news/nhl-outliers-players-whose-size-sets-them-apart-224754349.html
+image of mortiz seider https://rezztek.com/blogs/news/who-is-the-fastest-skater-in-the-nhl
+image of sidney crosby https://www.nhlpa.com/news/2-37870/even-at-36-sidney-crosby-remains-the-gold-standard-for-nhl-players
+image of john mustard https://friars.com/sports/mens-ice-hockey/roster/john-mustard/9935
+image of logan will https://friars.com/sports/mens-ice-hockey/roster/logan-will/9943
+
+juuse saros https://ca.sports.yahoo.com/news/nhl-contenders-goalie-options-saros-hellebuyck-gibson-hart-ullmark-offseason-trade-110044667.html
+connor hellebuyck https://www.si.com/onsi/breakaway/news-feed-page/posts/top-10-nhl-goalies-2024
+marc-adnre fleury https://apnews.com/article/marcandre-fleury-minnesota-wild-0b9d6ff1c18b13d7596fb447e0e6c208
+anthony stolarz https://www.nhlpa.com/news/2-43706/maple-leafs-say-goaltender-stolarz-to-undergo-knee-surgery-will-be-out-4-6-weeks
+darcy kuemper https://www.cbc.ca/sports/hockey/nhl/kings-trade-darcy-kuemper-1.4546168
+
+Used ChatGPT AI to debug my code. in the startingScene() method, when I inputted the last name, it resulted in the not-found message. chatgpt was INCOMPETENT and DIDNT FIX THE PROBLEM
+so i just got rid of the not found message entirely and added it to the starter message instead
+which told the user to try again if it didnt work
