@@ -21,11 +21,11 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 
 ## UML Diagram
 
-![UML Diagram for my project](https://docs.google.com/drawings/d/1-bB89kHANrnVmX0T66z0Whxn7_goHlUrEmmpaBgkllI/edit?pli=1)
+[UML Diagram for my project](https://docs.google.com/drawings/d/1-bB89kHANrnVmX0T66z0Whxn7_goHlUrEmmpaBgkllI/edit?pli=1)
 
 ## Video
 
-[![Thumbnail for my projet]](https://youtu.be/AtA4pkghJRg)
+[Video for my project](https://youtu.be/AtA4pkghJRg)
 
 ## Project Description
 
